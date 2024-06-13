@@ -57,30 +57,6 @@
 	padding-left:35px;
 	padding-right:35px;
 }
-#welcome {
-	min-height: 70px;
-	height: auto;
-	background: linear-gradient(to right, #80c4e2, #a0d0e9);
-    padding: 20px;
-	padding-bottom: 5px;
-	color: #ffffff;
-}
-#ntmy {
-	min-height: 70px;
-	height: auto;
-	margin-top: 1%;
-	margin-bottom: 2%;
-}
-.message {
-	height: 70px;
-}
-.message p {
-	line-height: 70px;
-	font-size: 33px;
-	font-family: Impact, sans-serif;
-	text-align: center;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-}
 .carousel-inner img {
     object-fit: cover;
 	border-radius: 10px;
@@ -98,6 +74,16 @@
 	background: linear-gradient(to right, #80c4e2, #a0d0e9);
     padding: 20px;
 	padding-bottom: 40px;
+}
+#welcome {
+	background: linear-gradient(to right, #80c4e2, #a0d0e9);
+	padding: 30px;
+	padding-bottom: 1px;
+    text-align: center;
+    font-size: 33px;
+    color: #ffffff;
+	font-family: Impact, sans-serif;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 #slider {
 	height: auto;
@@ -205,6 +191,22 @@
     font-size: 1.4em;
     color: #30465b;
 	font-family: 'Georgia', serif;
+}
+#ntmy {
+	min-height: 70px;
+	height: auto;
+	margin-top: 1%;
+	margin-bottom: 2%;
+}
+.message {
+	height: 70px;
+}
+.message p {
+	line-height: 70px;
+	font-size: 33px;
+	font-family: Impact, sans-serif;
+	text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 #resume-container {
     min-height: 400px;
